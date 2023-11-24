@@ -1,2 +1,3 @@
-# my-first-repo
-Practice learning Github
+# my-first-repo minor update!
+practice learning Github
+
